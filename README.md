@@ -9,6 +9,9 @@ The objective is to analyze a multi-class dataset to determine if it is linearly
 - A suitable environment to run .ipynb files (e.g. Jupyter, Google Colab)
 
 ## Getting Started
+1. Clone the repository in your preferred environment.
+2. Install the required Python libraries using the **requirements.txt** file. One way to do it is if you are setting it up on Jupyter, open the console on the project directory and type `pip install -r requirements.txt`.
+3. You're now ready to start working on the project!
 
 
 ## License
